@@ -11,6 +11,5 @@ events:
   - derbian-kaliLinux
   - ubuntu
   - blackarch_linux
-
 ---
 
