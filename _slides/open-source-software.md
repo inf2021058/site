@@ -11,5 +11,4 @@ slides:
   - derbian-kaliLinux.md
   - ubuntu.md
   - blackarch_linux.md
-  
 ---
