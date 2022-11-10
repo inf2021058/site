@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Λογισμικό ανοικτού κώδικα
-image_url: /images/Parrot.Os.jpg
+image_url: /images/parrotOs.jpg
 caption: Διαφάνειες για το Λογισμικό ανοικτού κώδικα
 slides:
   - kaliLinux
