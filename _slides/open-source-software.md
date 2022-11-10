@@ -5,7 +5,7 @@ image_url: /images/Parrot.Os.jpg
 caption: Διαφάνειες για το Λογισμικό ανοικτού κώδικα
 slides:
   - kaliLinux
-  - parrotOS
+  - parrotOS.md
   - morhOS
   - mintlinux
   - derbian-linux
