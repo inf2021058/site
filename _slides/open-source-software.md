@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Λογισμικό ανοικτού κώδικα
-image_url: /images/KaliLinux.png
+image_url: /images/kaliLinux.png
 caption: Διαφάνειες για το Λογισμικό ανοικτού κώδικα
 slides:
   - kaliLinux
