@@ -4,7 +4,7 @@ title: Λογισμικό ανοικτού κώδικα
 image_url: /images/kaliLinux.png
 caption: Διαφάνειες για το Λογισμικό ανοικτού κώδικα
 slides:
-  - kaliLinux
+  - /home/inf2021058/Desktop/hci/site/_gallery/kaliLinux.md
   - parrotOS
   - morhOS
   - mintlinux
