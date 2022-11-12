@@ -8,7 +8,7 @@ events:
   - parrotOS
   - morhOS
   - mintlinux
-  - derbian-kaliLinux
+  - debian-kaliLinux
   - ubuntu
   - blackarch_linux
 ---
