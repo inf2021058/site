@@ -8,7 +8,7 @@ slides:
   - parrotOS
   - morhOS
   - mintlinux
-  - derbian-linux
+  - debian-linux
   - ubuntu
   - blackarch_linux
 ---
