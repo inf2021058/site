@@ -6,7 +6,7 @@ caption: Στον χώρο της πληροφορικής και των ηλε�
 events:
   - kaliLinux
   - parrotOS
-  - morhOS
+  - morphOS
   - mintlinux
   - debian-linux
   - ubuntu
