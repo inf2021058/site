@@ -6,7 +6,7 @@ caption: Διαφάνειες για το Λογισμικό ανοικτού κ
 slides:
   - kaliLinux
   - parrotOS
-  - morhOS
+  - morphOS
   - mintlinux
   - debian-linux
   - ubuntu
